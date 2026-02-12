@@ -57,3 +57,12 @@ Download via Pre-Signed URL
 - API Gateway integration
 - DynamoDB data modeling
 - Debugging CORS and HTTP errors
+
+## Setup
+
+1. Open script.js
+2. Replace:
+
+   YOUR_API_BASE_URL
+
+   with your deployed API Gateway URL
